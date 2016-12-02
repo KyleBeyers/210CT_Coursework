@@ -1,0 +1,20 @@
+210CT
+
+Week 2 – Big O task
+
+shuffling_array_of_int.py
+
+6 + 3n + 2
+
+Total = 3n + 8
+
+Complexity = O (n)
+
+
+trailing_zeros_in_factorials.py
+
+1 + 6n + 4 + 4n + 7
+
+Total = 10n + 12
+
+Complexity = O (n)
